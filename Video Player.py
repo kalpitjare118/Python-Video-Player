@@ -1,3 +1,7 @@
+'''
+This is video player made in Python by ' github.com/kalpitjare118 ' using vlc and tkinter library 
+'''
+
 import tkinter as tk
 from tkinter import ttk, filedialog
 import vlc
